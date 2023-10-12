@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - 🎓 I'm a journalism graduate with a passion for storytelling.
 - 📷 Photography is my creative outlet; I love capturing the world around me.
 - 📈 I hold an MBA in marketing, where I learned to bridge creativity with strategy.
-- 🌎 When I'm not learning how to code I'm spending my time learning languages. Human ones, I mean. 
+- 🌎 When I'm not learning how to code I'm spending my time learning languages.
 - ✈️ Traveling is my ultimate source of inspiration.
 - 💻 Recently, I've started venturing into the world of web development, learning the ropes of coding and design.
 
